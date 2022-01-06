@@ -50,8 +50,25 @@ Se utilizaron los siguientes materiales:
 
 ![image](https://user-images.githubusercontent.com/93361435/147798424-3b15c131-5b2b-418c-a979-e3f5db79d543.png)
 
+#### 5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+#### calculo de valores:
+- procedemos a reeemplazar las fuentes de voltaje existentes en el circuito por sus resistencias internas las cuales son iguales a cero, lo cual es equivalente a poner un cable y al mismo tiempo retiramos el resistor R5, de esta manera optenemos lo siguiente:  
+![image](https://user-images.githubusercontent.com/93398718/148318153-8b1784d3-d37b-4699-87b8-5d95f872b2ad.png)  
+- procedemos a realizar el respectivo analisis para determinar el valor de RTH:  
+![image](https://user-images.githubusercontent.com/93398718/148319636-e5154ffa-ea88-41a9-bce6-ce3b05781fe4.png)  
+- obtuvimos como resultado que el valor de RTH es 298.85 Ohmnios.  
+#### medicion de valores:
+- para comprobar que obtubimos el resultado correcto realizaremos el mismo procedimento en un simulador de la siguiente manera:
+![image](https://user-images.githubusercontent.com/93398718/148320367-c37c0c16-e4cd-44af-a3ae-90ae73950761.png)  
+
+- podemos apreciar que el resultado calculado es casi igual al medido, de esta manera se puede afirmar que la resistencia equivalente de thevenin para este circuito tiene un valor de 298.85 Ohmnios. 
+  
 
 # RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
+
+#### calculo de error para RTH:
+![image](https://user-images.githubusercontent.com/93398718/148321321-cf661522-f9fc-4ce1-a6fb-11eca1dac6f8.png)  
 
 
 
