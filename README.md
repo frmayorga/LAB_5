@@ -76,11 +76,11 @@ Se procedio a armar el circuito de la figura en el simulador tinkercad, ademas s
 
 **5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.**
 
-**Calculo de valores:*
+**Calculo de valores:**
 
 Se utilizo el metodo de superposicion y se obtuvo los siguientes resultados: 
 
-![superposicion-thevenin](https://user-images.githubusercontent.com/93361435/148452561-458867b0-3e09-437d-b873-4b332e55b461.png)
+![superposicion-thevenin](https://user-images.githubusercontent.com/93361435/148452795-f50be373-3bff-4c3c-8745-61d963037923.png)
 
 **Medición de valores:**
 
