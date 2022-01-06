@@ -76,10 +76,14 @@ Se procedio a armar el circuito de la figura en el simulador tinkercad, ademas s
 
 **5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.**
 
-**Calculo de valores:**
+Armamos el circuito y con los multimetros medimos corriente y voltaje en R5: 
+
+![image](https://user-images.githubusercontent.com/93361435/148446297-41ac113a-79df-413f-bd3e-4932ccc5b91b.png)
 
 
-**Medición de valores:**
+| CORRIENTE MEDIDA | VOLTAJE MEDIDO |
+|--------|------------|
+| 3.89 mA | 3.89 V |
 
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
@@ -98,7 +102,9 @@ Realizamos el armado del circuito con el uso de un potenciometro, ya que el valo
 
  ![image](https://user-images.githubusercontent.com/93361435/148441801-ef223e77-22d8-4272-ad69-df1357e68cf4.png)
 
-
+| CORRIENTE MEDIDA THEVENIN | VOLTAJE MEDIDO THEVENIN |
+|--------|------------|
+| 3.89 mA | 3.89 V |
 
 ## CALCULO DEL ERROR 
 
