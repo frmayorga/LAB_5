@@ -92,7 +92,9 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 - podemos apreciar que el resultado calculado es casi igual al medido, de esta manera se puede afirmar que la resistencia equivalente de thevenin para este circuito tiene un valor de 298.85 Ohmnios. 
 
-
+| RESISTENCIA CALCULADA THEVENIN | RESISTENCIA MEDIDA THEVENIN |
+|--------|------------|
+| 298.85 Ohmios | 299 Ohmios |
 
 **5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
