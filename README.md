@@ -76,6 +76,14 @@ Se procedio a armar el circuito de la figura en el simulador tinkercad, ademas s
 
 **5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.**
 
+**Calculo de valores:*
+
+Se utilizo el metodo de superposicion y se obtuvo los siguientes resultados: 
+
+![superposicion-thevenin](https://user-images.githubusercontent.com/93361435/148452561-458867b0-3e09-437d-b873-4b332e55b461.png)
+
+**Medición de valores:**
+
 Armamos el circuito y con los multimetros medimos corriente y voltaje en R5: 
 
 ![image](https://user-images.githubusercontent.com/93361435/148446297-41ac113a-79df-413f-bd3e-4932ccc5b91b.png)
@@ -83,7 +91,7 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 | CORRIENTE CALCULADO | VOLTAJE CALCULADO | CORRIENTE MEDIDA | VOLTAJE MEDIDO |
 |--------|------------|--------|------------|
-| 3.892 mA| 3.892 V | 3.89 mA| 3.89 V|
+| 3.896 mA| 3.896 V | 3.89 mA| 3.89 V|
 
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
