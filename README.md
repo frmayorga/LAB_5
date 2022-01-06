@@ -3,7 +3,7 @@
 # OBJETIVOS
 
 ## OBJETIVO GENERAL 
- 
+- Haciendo uso del circuito proporcionado en el ejercicio demostrar que todo circuito resistivo puede ser llevado a la forma del un circuito equivalente de thevenin que consta de una fuente de voltaje y dos resistores en serie.
 
 ## OBJETIVO ESPECIFICO
 
