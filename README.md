@@ -40,15 +40,18 @@ Se utilizaron los siguientes materiales:
 |--------|------------|
 | 2 | Fuente de voltaje en C.D. |
 | 2 | Multimetro Digital |
-| 1 | Resistor de 1.8 Kilo-Ohmios |
-| 1 | Resistor de 470 Ohmios |
-| 1 | Resistor de 1.5 kilo-ohmio |
-| 1 | Resistor de 3.9 kilo-ohmios |
-| 1 | Resistor de 2.2 Kilo-ohmios |
+| 1 | Resistor de 4.7 Kilo-Ohmios |
+| 1 | Resistor de 330 Ohmios |
+| 1 | Resistor de 100 Ohmios |
+| 1 | Resistor de 1 kilo-ohmio |
+| 1 | Potenciómetro de precisión de 1 kilo-ohmio |
 | 1 | Protoboard |
 
+Se procedio a armar el circuito de la figura en el simulador tinkercad, ademas se realizaron los calculos respectivos del voltaje de thevenin y resistencia de thevenin para finalmente armar el circuito de thevenin y tambien medir sus valores con el fin de demostrar el teorema propuesto. 
 
 ![image](https://user-images.githubusercontent.com/93361435/147798424-3b15c131-5b2b-418c-a979-e3f5db79d543.png)
+
+
 
 #### 5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
@@ -65,7 +68,39 @@ Se utilizaron los siguientes materiales:
 - podemos apreciar que el resultado calculado es casi igual al medido, de esta manera se puede afirmar que la resistencia equivalente de thevenin para este circuito tiene un valor de 298.85 Ohmnios. 
   
 
-# RESPUESTA DE INTERROGANTES Y CALCULO DE ERROR
+ 
+ 
+
+
+# RESPUESTA DE INTERROGANTES 
+
+**5.5.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.**
+
+**Calculo de valores:**
+
+
+**Medición de valores:**
+
+
+**5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
+
+**Calculo de valores:**
+
+
+**Medición de valores:**
+
+
+
+
+**5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
+
+Realizamos el armado del circuito con el uso de un potenciometro, ya que el valor de la resistencia no es fijo en si, ajustamos el potenciometro hasta la resistencia requerida y observamos las mediciones de corriente y voltaje en R5: 
+
+ ![image](https://user-images.githubusercontent.com/93361435/148441801-ef223e77-22d8-4272-ad69-df1357e68cf4.png)
+
+
+
+## CALCULO DEL ERROR 
 
 #### calculo de error para RTH:
 ![image](https://user-images.githubusercontent.com/93398718/148321321-cf661522-f9fc-4ce1-a6fb-11eca1dac6f8.png)  
