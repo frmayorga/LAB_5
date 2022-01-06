@@ -119,7 +119,13 @@ Realizamos el armado del circuito con el uso de un potenciometro, ya que el valo
 #### calculo de error para RTH:
 ![image](https://user-images.githubusercontent.com/93398718/148321321-cf661522-f9fc-4ce1-a6fb-11eca1dac6f8.png)  
 
+**Calculo de error para la corriente:**
 
+![image](https://user-images.githubusercontent.com/93361435/148453196-baf6b460-d1eb-41fb-84a0-0827e9c72fc8.png)
+
+**Calculo de error para el voltaje:**
+
+![image](https://user-images.githubusercontent.com/93361435/148453291-8dfaf683-a6a9-41b6-ad7c-92ae26630b86.png)
 
 # VIDEO
 
