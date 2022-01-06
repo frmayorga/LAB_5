@@ -81,7 +81,7 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 ![image](https://user-images.githubusercontent.com/93361435/148446297-41ac113a-79df-413f-bd3e-4932ccc5b91b.png)
 
 
-| CORRIENTE CALCULADO | VOLTAJE CALCULADO || CORRIENTE MEDIDA | VOLTAJE MEDIDO |
+| CORRIENTE CALCULADO | VOLTAJE CALCULADO | CORRIENTE MEDIDA | VOLTAJE MEDIDO |
 |--------|------------|--------|------------|
 | 3.892 mA| 3.892 V | 3.89 mA| 3.89 V|
 
