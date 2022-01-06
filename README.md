@@ -6,7 +6,8 @@
 - Haciendo uso del circuito proporcionado en la actividad y los conocimientos impartidos en clase demostrar que todo circuito resistivo puede ser llevado a la forma de un circuito equivalente de thevenin que consta de una fuente de voltaje y dos resistores en serie.
 
 ## OBJETIVO ESPECIFICO
-
+- definir un circuito equivalente de thevenin con el ejercicio proporcionado.
+- demostrar que todo circuito resistivo puede ser thevenizado.
 
 # MARCO TEORICO
 
