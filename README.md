@@ -79,6 +79,9 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 
+
+**5.5.4. Desconecte el resistor R5 y mida la resistencia en el circuito abierto. Anote el valor medido en la tabla 5.1.**
+
 **Calculo de valores:**
 - procedemos a reeemplazar las fuentes de voltaje existentes en el circuito por sus resistencias internas las cuales son iguales a cero, lo cual es equivalente a poner un cable y al mismo tiempo retiramos el resistor R5, de esta manera optenemos lo siguiente:  
 ![image](https://user-images.githubusercontent.com/93398718/148318153-8b1784d3-d37b-4699-87b8-5d95f872b2ad.png)  
