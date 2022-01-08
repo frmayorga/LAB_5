@@ -101,6 +101,14 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 **5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.**
 
+**Calculo de valores** 
+
+Se realizo el calculo de la corriente y voltaje como un circuito serie: 
+
+![thevenin](https://user-images.githubusercontent.com/93361435/148661712-79826f25-15ed-408e-bf36-85e9ee2c6773.png)
+
+**Medicion de valores**
+
 Realizamos el armado del circuito con el uso de un potenciometro, ya que el valor de la resistencia no es fijo en si, ajustamos el potenciometro hasta la resistencia requerida y observamos las mediciones de corriente y voltaje en R5: 
 
  ![image](https://user-images.githubusercontent.com/93361435/148441801-ef223e77-22d8-4272-ad69-df1357e68cf4.png)
