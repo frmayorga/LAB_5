@@ -166,6 +166,7 @@ https://youtu.be/5OIQSAfOu5g
 
 # CONCLUSIONES
 
+- Como se pudo observa en todo el 
 
 # BIBLIOGRAFIA
 
