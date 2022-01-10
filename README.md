@@ -78,9 +78,17 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
+** Cálculo de valos:**
+se utiliza el metodo de calculo de corrientes de mallaspara encontrar el voltaje de Thevenin(VTH):
 
+![image](https://user-images.githubusercontent.com/93561706/148722546-36d10493-536e-4ae8-9952-bb075e58b825.png)
+![image](https://user-images.githubusercontent.com/93561706/148722600-a4834929-196b-49f1-bafd-07862af939be.png)
+![image](https://user-images.githubusercontent.com/93561706/148722605-f3c0b406-f7e5-4eb5-9ea9-7a4a4b216390.png)
+![image](https://user-images.githubusercontent.com/93561706/148722638-89d131e5-7eea-4ab0-b033-a08d26b661de.png)
 
-**5.5.4. Desconecte el resistor R5 y mida la resistencia en el circuito abierto. Anote el valor medido en la tabla 5.1.**
+![image](https://user-images.githubusercontent.com/93561706/148722862-6d65e73f-0375-4e6d-9123-9c99df83dfc4.png)
+
+**5.5.4. Desconecte la resistencia R5 y mida la resistencia en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 
 **Calculo de valores:**
 - procedemos a reeemplazar las fuentes de voltaje existentes en el circuito por sus resistencias internas las cuales son iguales a cero, lo cual es equivalente a poner un cable y al mismo tiempo retiramos el resistor R5, de esta manera optenemos lo siguiente:  
