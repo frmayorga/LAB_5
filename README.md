@@ -78,7 +78,9 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
-** Cálculo de valos:**
+
+**Calculo de valores:**
+
 Se utiliza el metodo de calculo de corrientes de mallas para encontrar el voltaje de Thevenin(VTH):
 
 Circuito original:
@@ -97,10 +99,14 @@ Circuito sin R5 para calcular el voltaje de thevenin:
 
 ![image](https://user-images.githubusercontent.com/93561706/148722638-89d131e5-7eea-4ab0-b033-a08d26b661de.png)
 
-![image](https://user-images.githubusercontent.com/93561706/148723348-61da9c83-8626-40c3-b444-c18bbaac9710.png)
+**Medición de valores:**
 
-![image](https://user-images.githubusercontent.com/93561706/148723234-70300688-20b5-4f00-a5a5-4f1cc823f488.png)
+Armamos el circuito y con los multimetros medimos corriente y voltaje: 
 
+
+| VOLTAJE CALCULADA THEVENIN | VOLTAJE MEDIDA THEVENIN |
+|--------|------------|
+| 5.06 V | 299 V |
 
 **5.5.4. Desconecte la resistencia R5 y mida la resistencia en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 
