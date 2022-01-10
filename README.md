@@ -86,7 +86,8 @@ se utiliza el metodo de calculo de corrientes de mallaspara encontrar el voltaje
 ![image](https://user-images.githubusercontent.com/93561706/148722605-f3c0b406-f7e5-4eb5-9ea9-7a4a4b216390.png)
 ![image](https://user-images.githubusercontent.com/93561706/148722638-89d131e5-7eea-4ab0-b033-a08d26b661de.png)
 
-![image](https://user-images.githubusercontent.com/93561706/148722862-6d65e73f-0375-4e6d-9123-9c99df83dfc4.png)
+![image](https://user-images.githubusercontent.com/93561706/148723234-70300688-20b5-4f00-a5a5-4f1cc823f488.png)
+
 
 **5.5.4. Desconecte la resistencia R5 y mida la resistencia en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 
