@@ -79,12 +79,23 @@ Armamos el circuito y con los multimetros medimos corriente y voltaje en R5:
 
 **5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 ** Cálculo de valos:**
-se utiliza el metodo de calculo de corrientes de mallaspara encontrar el voltaje de Thevenin(VTH):
+Se utiliza el metodo de calculo de corrientes de mallas para encontrar el voltaje de Thevenin(VTH):
+
+Circuito original:
+
+![image](https://user-images.githubusercontent.com/93561706/148723289-9e209013-5727-4159-8f58-32f382bbe548.png)
+
+Circuito sin R5 para calcular el voltaje de thevenin:
+![image](https://user-images.githubusercontent.com/93561706/148723346-45f71ce6-cdb8-406a-ae93-6cc4625a7e43.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148723368-c0ef924f-71dc-4c39-9f31-66e8dd718c75.png)
 
 ![image](https://user-images.githubusercontent.com/93561706/148722546-36d10493-536e-4ae8-9952-bb075e58b825.png)
 ![image](https://user-images.githubusercontent.com/93561706/148722600-a4834929-196b-49f1-bafd-07862af939be.png)
 ![image](https://user-images.githubusercontent.com/93561706/148722605-f3c0b406-f7e5-4eb5-9ea9-7a4a4b216390.png)
 ![image](https://user-images.githubusercontent.com/93561706/148722638-89d131e5-7eea-4ab0-b033-a08d26b661de.png)
+
+![image](https://user-images.githubusercontent.com/93561706/148723348-61da9c83-8626-40c3-b444-c18bbaac9710.png)
 
 ![image](https://user-images.githubusercontent.com/93561706/148723234-70300688-20b5-4f00-a5a5-4f1cc823f488.png)
 
