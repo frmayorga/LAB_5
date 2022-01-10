@@ -166,8 +166,8 @@ https://youtu.be/5OIQSAfOu5g
 
 # CONCLUSIONES
 
-- Como se pudo observa en todo el 
-
+- Como se pudo observa en todo el laboratorio se logra hallar un circuito equivalente al originar que comple con las mismas condiciones, en conclusion el metodo de thevenin es una herramienta muy util el cual nos ayudo a resolver este ejercicio.  
+-Se observo y determino que si se puede llegar a que todo circuito complejo este de la forma de thevenin y cumplas las mismas condiciones.
 # BIBLIOGRAFIA
 
 - Floyd, T. (2007). *Principios de circuitos eléctricos*. Octava edición. Mexico. Editorial Pearson.
