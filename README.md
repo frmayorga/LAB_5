@@ -92,7 +92,8 @@ Circuito sin R5 para calcular el voltaje de thevenin:
 
 ![image](https://user-images.githubusercontent.com/93561706/148723368-c0ef924f-71dc-4c39-9f31-66e8dd718c75.png)
 
-![image](https://user-images.githubusercontent.com/93561706/148722546-36d10493-536e-4ae8-9952-bb075e58b825.png) ![image](https://user-images.githubusercontent.com/93561706/148722600-a4834929-196b-49f1-bafd-07862af939be.png)
+![image](https://user-images.githubusercontent.com/93561706/148722546-36d10493-536e-4ae8-9952-bb075e58b825.png) 
+![image](https://user-images.githubusercontent.com/93561706/148722600-a4834929-196b-49f1-bafd-07862af939be.png)
 
 ![image](https://user-images.githubusercontent.com/93561706/148722605-f3c0b406-f7e5-4eb5-9ea9-7a4a4b216390.png)
 
