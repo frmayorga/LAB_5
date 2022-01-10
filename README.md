@@ -103,10 +103,12 @@ Circuito sin R5 para calcular el voltaje de thevenin:
 
 Armamos el circuito y con los multimetros medimos corriente y voltaje: 
 
+![image](https://user-images.githubusercontent.com/93561706/148724369-2ddff113-8f07-4930-93ef-0b497db74dcd.png)
+
 
 | VOLTAJE CALCULADA THEVENIN | VOLTAJE MEDIDA THEVENIN |
 |--------|------------|
-| 5.06 V | 299 V |
+| 5.06 V | 5.06 V |
 
 **5.5.4. Desconecte la resistencia R5 y mida la resistencia en el circuito abierto. Anote el valor medido en la tabla 5.1.**
 
