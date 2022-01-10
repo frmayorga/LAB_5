@@ -162,6 +162,7 @@ Realizamos el armado del circuito con el uso de un potenciometro, ya que el valo
 
 # VIDEO
 
+https://youtu.be/5OIQSAfOu5g
 
 # CONCLUSIONES
 
